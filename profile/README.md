@@ -1,6 +1,6 @@
 # 🦁 CJU LIKELION: Possibility to Reality 👋
 
-청주대학교 멋쟁이사자처럼(CJU LIKELION) 13기 여러분을 환영합니다!
+청주대학교 멋쟁이사자처럼(CJU LIKELION) 2기 여러분을 환영합니다!
 우리는 단순히 코드를 작성하는 법을 배우는 것에 그치지 않고, 협업의 가치와 실전 개발 프로세스를 체계적으로 학습합니다.
 
 ## 🎯 핵심 가치 및 목표
@@ -23,4 +23,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-*아이디어를 현실로 만드는 16주의 여정, CJU LIKELION 13기가 함께합니다.*
+*아이디어를 현실로 만드는 10주의 여정, CJU LIKELION 2기가 함께합니다.*
