@@ -11,9 +11,9 @@
 ## 📅 CJU CURRICULUM
 | 파트 | 주요 학습 내용 |
 | :--- | :--- |
-| **🎨 UI/UX Design** | 페르소나 설정, Figma 프로토타이핑, 디자인 시스템 구축 |
-| **⚛️ React Frontend** | 컴포넌트 기반 UI, 상태 관리, TypeScript 전환 및 API 연동 |
-| **🍃 Spring Backend** | Java 객체지향 기초, Spring Boot 전환, JPA 및 DB 연동 설계 |
+| **🎨 기획/디자인** | 페르소나 설정, Figma 프로토타이핑, 디자인 시스템 구축 |
+| **⚛️ 프론트엔드** | 컴포넌트 기반 UI, 상태 관리, TypeScript 전환 및 API 연동 |
+| **🍃 백엔드** | Java 객체지향 기초, Spring Boot 전환, JPA 및 DB 연동 설계 |
 
 ## 🛠 사용 기술
 ### Language & Framework
