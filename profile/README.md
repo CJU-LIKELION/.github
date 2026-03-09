@@ -31,4 +31,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+### 관련 페이지
+[청주대 멋쟁이사자 인스타그램](https://www.instagram.com/likelion_cju/)
+[청주대 멋쟁이사자 14기 홈페이지](https://cju-likelion.github.io/)
+
+---
 *아이디어를 현실로 만드는 10주의 여정, CJU LIKELION 14기가 함께합니다.*
