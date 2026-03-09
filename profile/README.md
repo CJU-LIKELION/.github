@@ -32,7 +32,7 @@
 
 ---
 ### 관련 페이지
-[청주대 멋쟁이사자 인스타그램](https://www.instagram.com/likelion_cju/)
+[청주대 멋쟁이사자 인스타그램](https://www.instagram.com/likelion_cju/)\
 [청주대 멋쟁이사자 14기 홈페이지](https://cju-likelion.github.io/)
 
 ---
